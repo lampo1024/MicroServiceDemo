@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceDemo.ProductService", "src\MicroServiceDemo.ProductService\MicroServiceDemo.ProductService.csproj", "{AC01E8E3-FFF2-4A89-A8A7-2277A5DB1BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceDemo.Gateway", "src\MicroServiceDemo.Gateway\MicroServiceDemo.Gateway.csproj", "{968EFE35-DD93-42AE-8345-94B5E5468C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC01E8E3-FFF2-4A89-A8A7-2277A5DB1BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC01E8E3-FFF2-4A89-A8A7-2277A5DB1BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC01E8E3-FFF2-4A89-A8A7-2277A5DB1BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC01E8E3-FFF2-4A89-A8A7-2277A5DB1BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968EFE35-DD93-42AE-8345-94B5E5468C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968EFE35-DD93-42AE-8345-94B5E5468C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968EFE35-DD93-42AE-8345-94B5E5468C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968EFE35-DD93-42AE-8345-94B5E5468C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {749583D7-EEB1-43DE-B5CD-0AB13FC8657C}
+	EndGlobalSection
+EndGlobal

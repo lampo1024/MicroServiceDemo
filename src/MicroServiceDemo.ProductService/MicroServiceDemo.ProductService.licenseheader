@@ -1,0 +1,17 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/**************************************
+ * FileName:	%FileName%
+ * Author:		Rector
+ * Date:		%CurrentYear%-%CurrentMonth%-%CurrentDay%	
+ * Copyright (c) %CurrentYear%
+ * Desc:		
+***************************************/
+extensions: .ascx
+<%-- 
+Copyright (c) %CurrentYear% Rector
+--%>
+extensions:  .xml .config .xsd
+<!--
+Copyright (c) %CurrentYear%
+-->
